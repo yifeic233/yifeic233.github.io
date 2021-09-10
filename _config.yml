@@ -23,7 +23,7 @@ email: yifeic@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I'm Yifei Cen, a senior at Carnegie Mellon University studying Computer Science. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yifeic233.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "http://yifeic233.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: yifeic233
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
