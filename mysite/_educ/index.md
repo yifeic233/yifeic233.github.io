@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Basic
+title: My Education
 nav_order: 1
 ---
 
