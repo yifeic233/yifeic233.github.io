@@ -14,3 +14,4 @@ majoring in
 
 and double majoring in 
 * Statistics
+
