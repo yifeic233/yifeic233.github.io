@@ -4,7 +4,6 @@
 
 layout: home
 title: Me
-permalink: "/home"
 
 ---
 
