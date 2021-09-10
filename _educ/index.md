@@ -4,4 +4,6 @@ title: My Education
 nav_order: 1
 ---
 
-# Some basic info about me
+# Where I study
+
+My four year of college was (still is) spent in Carnegie Mellon University.

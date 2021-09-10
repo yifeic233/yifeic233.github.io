@@ -34,7 +34,7 @@ remote_theme: pmarsceill/just-the-docs
 theme: just-the-docs
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  # - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 # Define Jekyll collections
 collections:
@@ -43,6 +43,9 @@ collections:
     permalink: "/:collection"
     output: true
   educ:
+    permalink: "/:collection"
+    output: true
+  work:
     permalink: "/:collection"
     output: true
 
@@ -63,6 +66,15 @@ just_the_docs:
     educ:
       # Give the collection a name
       name: My Education
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+    work:
+      # Give the collection a name
+      name: My Work
       # Exclude the collection from the navigation
       # Supports true or false (default)
       nav_exclude: false
