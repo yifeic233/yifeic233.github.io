@@ -13,6 +13,7 @@ I was born and raised in Shanghai, China, the place I spent my first 18 years. I
 <img src="photos/1.jpg" width="200"/>
 <img src="photos/2.jpg" width="200"/>
 <img src="photos/IMG_8298-min.JPG" width="200"/>
+<img src="photos/4.jpg" width="200"/>
 
 ### Hobbies
 
