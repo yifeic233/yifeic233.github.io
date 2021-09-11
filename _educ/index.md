@@ -6,9 +6,8 @@ nav_order: 1
 
 # Where I study
 
-My four years of college ~~were~~ (still are) spent in Carnegie Mellon University. 
-
-I am a **senoir** majoring in
+### My four years of college ~~were~~ (still are) spent in Carnegie Mellon University. 
+## I am a **senoir** majoring in
 * **Computer Science**,
   {: .text-purple-100 }
 
@@ -35,3 +34,13 @@ and double majoring in
   * <span style="font-family:Menlo;">```36-226``` Introduction to Statistical Inferences</span>
   * <span style="font-family:Menlo;">```36-225``` Introduction to Probability Theory</span>
 
+## Programming Languages I'm confident with
+* python
+* C
+* R
+* go
+
+## Database Management I know
+* MySQL
+* Redis
+* Memcached

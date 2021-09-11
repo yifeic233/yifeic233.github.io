@@ -1,8 +1,7 @@
-I"¹<h1 id="where-i-study">Where I study</h1>
+I"Y<h1 id="where-i-study">Where I study</h1>
 
-<p>My four years of college <del>were</del> (still are) spent in Carnegie Mellon University.</p>
-
-<p>I am a <strong>senoir</strong> majoring in</p>
+<h3 id="my-four-years-of-college-were-still-are-spent-in-carnegie-mellon-university">My four years of college <del>were</del> (still are) spent in Carnegie Mellon University.</h3>
+<h2 id="i-am-a-senoir-majoring-in">I am a <strong>senoir</strong> majoring in</h2>
 <ul>
   <li>
     <p class="text-purple-100"><strong>Computer Science</strong>,</p>
@@ -45,4 +44,18 @@
   </li>
 </ul>
 
+<h2 id="programming-languages-im-confident-with">Programming Languages Iâ€™m confident with</h2>
+<ul>
+  <li>python</li>
+  <li>C</li>
+  <li>R</li>
+  <li>go</li>
+</ul>
+
+<h2 id="database-management-i-know">Database Management I know</h2>
+<ul>
+  <li>MySQL</li>
+  <li>Redis</li>
+  <li>Memcached</li>
+</ul>
 :ET

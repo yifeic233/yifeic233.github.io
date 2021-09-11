@@ -9,7 +9,7 @@ title: Me
 
 # Hi, Welcome to my home page. 
 
-I'm Yifei Cen, a senior `@Carnegie-Mellon-University` studying Computer Science. 
+I'm Yifei Cen, a senior at <span style="font-family:sans-serif;color:#a6192e;font-size:18px">**Carnegie Mellon University**</span> studying Computer Science. 
 
 In the spring of 2019, I was probably sitting on my chair and staring at the sophisticated python bugs I just created for my Fundamentals of Programming and Computer Science (15-112) homework, the first Computer Science course I took. I could still remember how impressed I was when I could use what I wrote to solve complex Sudokus, play tetris, and handle many other complicated tasks for the first time. But, I know that 15-112 is only the surface of Computer Science, and I want to learn more about this discipline.
 
