@@ -28,7 +28,8 @@ I read books in my spare time. Authors that I like
 * Xun Lu, 鲁迅
 * Eileen Chang, 张爱玲
 
-I listen to music during work, study, almost at any time. Singer I like
+I listen to music during work, study, almost at all times. Singer I like
 * Charlie Puth
 * Aimer, エメ
 * Aimyon, あいみょん
+* Jay Chou

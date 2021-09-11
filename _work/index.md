@@ -11,20 +11,20 @@ nav_order: 1
   worked as a `Back End Developer` from Feb 2021 to Aug 2021. I contributed to two projects
 
   1. Project Halo - Online Murder Mystery Application <span style="color:black">where I</span>
-  {: .text-purple-100 }
+     {: .text-purple-100 }
 
-  * <span style="font-family:Menlo;">Implement a message queue service to accepting requests for each script play gaming room so that each player in the room is able to search clue, enter sub chatroom asynchronously.</span>
-  * <span style="font-family:Menlo;">Implement strategy to allow for reconnecting to the original gaming room after disconnection by routinely updating essential data in the gaming room to database.</span>
-  * <span style="font-family:Menlo;">Design configurations for each drama script in order to store static information such as clues, scenes, background music in database.</span>
-  * <span style="font-family:Menlo;">Use Redis to record each user s online status by updating redis key each time a user sends a request to server.</span>
-  * <span style="font-family:Menlo;">Use MySql and Redis to record each users following and followed list by inserting follow data to MySql and adding following/followed user id to ZSET. Implement method to automatically retreive the following, followed list from MySql and Redis back to server each time when a user login to the application.</span>
+      * <span style="font-family:Menlo;">Implement a message queue service to accepting requests for each script play gaming room so that each player in the room is able to search clue, enter sub chatroom asynchronously.</span>
+      * <span style="font-family:Menlo;">Implement strategy to allow for reconnecting to the original gaming room after disconnection by routinely updating essential data in the gaming room to database.</span>
+      * <span style="font-family:Menlo;">Design configurations for each drama script in order to store static information such as clues, scenes, background music in database.</span>
+      * <span style="font-family:Menlo;">Use Redis to record each user s online status by updating redis key each time a user sends a request to server.</span>
+      * <span style="font-family:Menlo;">Use MySql and Redis to record each users following and followed list by inserting follow data to MySql and adding following/followed user id to ZSET. Implement method to automatically retreive the following, followed list from MySql and Redis back to server each time when a user login to the application.</span>
 
-  2. Project Juhuipin - WeChat Mini Application <span style="color:black">where I</span>
-  {: .text-purple-100 }
+  1. Project Juhuipin - WeChat Mini Application <span style="color:black">where I</span>
+     {: .text-purple-100 }
 
-  * <span style="font-family:Menlo;">Build an algorithm for recommending activities for each user on plaza. The recommendation system is based on the frequency of user clicking into different categorical events.</span>
-  * <span style="font-family:Menlo;">Add notification feature to the mini app so that (1) when one user asks to join in an activity, the event holder is able to be notified, and respond to the application (2) when holder replied to the application, the user is able to be notified for the result of the application (3) when event is beginning in less than one hour, all event participants get notified (4) when event cancels, all event participants get notified.</span>
-  * <span style="font-family:Menlo;">Add local cache system for storing all activies, user information and plaza information in order to reduce the stress of MySQL. Plan to transfer local cache to redis so that the information stored in local cache stay in case of server crashes.</span>
+      * <span style="font-family:Menlo;">Build an algorithm for recommending activities for each user on plaza. The recommendation system is based on the frequency of user clicking into different categorical events.</span>
+      * <span style="font-family:Menlo;">Add notification feature to the mini app so that (1) when one user asks to join in an activity, the event holder is able to be notified, and respond to the application (2) when holder replied to the application, the user is able to be notified for the result of the application (3) when event is beginning in less than one hour, all event participants get notified (4) when event cancels, all event participants get notified.</span>
+      * <span style="font-family:Menlo;">Add local cache system for storing all activies, user information and plaza information in order to reduce the stress of MySQL. Plan to transfer local cache to redis so that the information stored in local cache stay in case of server crashes.</span>
         
 
 ## Tencent
