@@ -15,7 +15,7 @@ In the spring of 2019, I was probably sitting on my chair and staring at the sop
 
 I continued to explore the field of Computer Science. I took Introduction to Computer Systems (15-213) where I learned how computer systems execute programs and communicate with each other. I used C programming language to work on all of my labs for 15-213. I also took Distributed Systems (15-440) where I learned techniques behind the design of distributed systems, such as locking, concurrency, scheduling, and communication across networks.
 
-I'm interested in discovering more in the field of Computer Science and put what I learned in courses into real practices.
+I'm interested in discovering more in the field of Computer Science and put what I learned in courses into real practices. 
 
 To learn more about me:
 
