@@ -6,6 +6,29 @@ nav_order: 1
 
 # Some basics about me
 
-### I was born and raised in Shanghai, China, the place I spent my first 18 years.
+### Life
 
-### Then I took on my journey of studying aboard, entered CMU to study CS, and began my life in Pittsburgh, PA.
+I was born and raised in Shanghai, China, the place I spent my first 18 years. I then took on my journey of studying aboard, entered CMU to study CS, and began my college life in Pittsburgh, PA.
+
+<img src="photos/1.jpg" width="200"/>
+<img src="photos/2.jpg" width="200"/>
+<img src="photos/IMG_8298-min.JPG" width="200"/>
+
+### Hobbies
+
+I'm a novice photographer. I bought an Canon EOS M50 in 2019. The following are the first several photos I took via my camera.
+
+<img src="photos/IMG_0056.JPG" width="200"/>
+<img src="photos/IMG_0057.JPG" width="200"/>
+<img src="photos/IMG_0059.JPG" width="200"/>
+<img src="photos/IMG_0070.JPG" width="200"/>
+
+I read books in my spare time. Authors that I like
+* Keigo Higashino, 東野圭吾
+* Xun Lu, 鲁迅
+* Eileen Chang, 张爱玲
+
+I listen to music during work, study, almost at any time. Singer I like
+* Charlie Puth
+* Aimer, エメ
+* Aimyon, あいみょん
