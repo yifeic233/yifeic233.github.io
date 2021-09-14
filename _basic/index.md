@@ -17,7 +17,7 @@ I was born and raised in Shanghai, China, the place I spent my first 18 years. I
 
 ### Hobbies
 
-I'm a novice photographer. I bought an Canon EOS M50 in 2019. The following are the first several photos I took via my camera.
+I'm a novice photographer. I bought a Canon EOS M50 in 2019. The followings are the first several photos I took via my camera.
 
 <img src="photos/IMG_0056.JPG" width="200"/>
 <img src="photos/IMG_0057.JPG" width="200"/>

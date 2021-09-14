@@ -27,7 +27,7 @@ I'm interested in discovering more in the field of Computer Science and put what
 ## To learn more about me
 
 [My Basic](basic){: .btn .mr-4 } 
-[My Education](education){: .btn .mr-4 } 
+[My Education](educ){: .btn .mr-4 } 
 [My Work](work){: .btn .mr-4 }
 
 ---
